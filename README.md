@@ -1,2 +1,2 @@
 # Minesweeper
-A personal project using Java and Swing
+A personal project using Java and the Swing library.
